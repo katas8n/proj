@@ -1,5 +1,7 @@
 :root {
     --main-size : 2rem;
+    --primary-bg-color : blue ;
+    --secondary-bg-color : yellow ;
 }
 
 * {
@@ -17,16 +19,26 @@ h1 {
     font-family:"keke"  ;
     padding: 1rem;
     font-size : var( --main-size ) ;
+    background-color: var(--primary-bg-color );
+}
+
+li {
+    background-color:var(--secondary-bg-color) ;
 }
 
 h2 {
     font-family:"keke"  ;
     padding: 1rem;
     font-size : var( --main-size ) ;
+    background-color: var(--primary-bg-color );
 }
 
 h3 {
     font-family:"keke"  ;
     padding: 1rem;
     font-size : var( --main-size ) ;
+    background-color: var(--primary-bg-color );
+}
+button {
+    background-color: var(--primary-bg-color );
 }
