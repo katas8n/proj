@@ -1,0 +1,32 @@
+:root {
+    --main-size : 2rem;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "keke" ;
+    src: url("./Montserrat/Montserrat-Italic-VariableFont_wght.ttf");
+}
+
+h1 {
+    font-family:"keke"  ;
+    padding: 1rem;
+    font-size : var( --main-size ) ;
+}
+
+h2 {
+    font-family:"keke"  ;
+    padding: 1rem;
+    font-size : var( --main-size ) ;
+}
+
+h3 {
+    font-family:"keke"  ;
+    padding: 1rem;
+    font-size : var( --main-size ) ;
+}
