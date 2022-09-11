@@ -1,0 +1,32 @@
+/* h1  { */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.chees {
+    border: 2px solid darkorange;
+    padding: 23px;
+    background-color: yellow;
+}
+
+.bread {
+    margin: 23px;
+    padding: 23px;
+    background-color: brown;
+}
+
+.beef {
+    border-radius: 50%;
+    width: 123px;
+    height: 123px;
+    background-color: tomato;
+}
+
+.beef {
+    margin:0 auto;
+}
+
+h2.beef {
+    margin-top: 20px;
+}

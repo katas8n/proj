@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.main__title {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.main {
+    background-color: darkviolet;
+    padding:20px;
+}
+
+.main__image {
+    /* 1rem - 16px */
+    padding-top: 20px;
+    width: 100%;
+}
+
+.nav {
+    padding: 20px;
+    display: inline;
+}
+
+.nav__list-item {
+    margin: 20px;
+    display: inline;
+}
+
+.nav__list {
+    display: inline;
+}
+
+.header__input {
+    padding: 10px;
+    margin: 20px;
+}
+
+.block {
+    display: block;
+    width: 300px;
+}
